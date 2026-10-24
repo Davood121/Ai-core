@@ -4,9 +4,9 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Davood121/Ai_system_nor-2?style=flat-square&logo=github)](https://github.com/Davood121/Ai_system_nor-2)
-[![GitHub Forks](https://img.shields.io/github/forks/Davood121/Ai_system_nor-2?style=flat-square&logo=github)](https://github.com/Davood121/Ai_system_nor-2)
-[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/Davood121/Ai_system_nor-2)
+[![GitHub Stars](https://img.shields.io/github/stars/Davood121/Ai_system_nor?style=flat-square&logo=github)](https://github.com/Davood121/Ai_system_nor)
+[![GitHub Forks](https://img.shields.io/github/forks/Davood121/Ai_system_nor?style=flat-square&logo=github)](https://github.com/Davood121/Ai_system_nor)
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/Davood121/Ai_system_nor)
 
 **A comprehensive, production-ready terminal-based AI system with consciousness, multi-language support, advanced search engine, story collection, and intelligent memory capabilities.**
 
@@ -36,7 +36,7 @@
 
 ## Overview
 
-**Ai_system_nor-2** is an intelligent, multi-featured AI assistant designed for advanced conversational AI, information retrieval, and interactive learning. Built with Python and powered by Ollama's local LLM capabilities, it provides a privacy-first, offline-capable AI experience with cutting-edge features.
+**Ai_system_nor** is an intelligent, multi-featured AI assistant designed for advanced conversational AI, information retrieval, and interactive learning. Built with Python and powered by Ollama's local LLM capabilities, it provides a privacy-first, offline-capable AI experience with cutting-edge features.
 
 ### Key Highlights
 
@@ -185,8 +185,8 @@ Coverage:        100+ million sources
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Davood121/Ai_system_nor-2.git
-cd Ai_system_nor-2
+git clone https://github.com/Davood121/Ai_system_nor.git
+cd Ai_system_nor
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -211,8 +211,8 @@ python terminal_ai.py
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/Davood121/Ai_system_nor-2.git
-cd Ai_system_nor-2
+git clone https://github.com/Davood121/Ai_system_nor.git
+cd Ai_system_nor
 ```
 
 ### Step 2: Install Ollama
@@ -571,8 +571,8 @@ Contributions are welcome! Please follow these steps:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/Ai_system_nor-2.git
-cd Ai_system_nor-2
+git clone https://github.com/YOUR_USERNAME/Ai_system_nor.git
+cd Ai_system_nor
 
 # Create virtual environment
 python -m venv venv
@@ -619,8 +619,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/Davood121/Ai_system_nor-2/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Davood121/Ai_system_nor-2/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Davood121/Ai_system_nor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Davood121/Ai_system_nor/discussions)
 - **Email**: [Contact](mailto:davood121@example.com)
 
 ---
