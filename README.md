@@ -8,7 +8,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/Davood121/Ai_system_nor?style=flat-square&logo=github)](https://github.com/Davood121/Ai_system_nor)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/Davood121/Ai_system_nor)
 
-**A comprehensive, production-ready terminal-based AI system with consciousness, multi-language support, advanced search engine, story collection, and intelligent memory capabilities.**
+**An experimental terminal-based AI assistant prototype with multilingual support, search integrations, story collection, and local memory features.**
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Architecture](#-architecture) • [Contributing](#-contributing)
 
@@ -186,7 +186,7 @@ Coverage:        100+ million sources
 ```bash
 # 1. Clone repository
 git clone https://github.com/Davood121/Ai_system_nor.git
-cd Ai_system_nor
+cd Ai-core
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -212,7 +212,7 @@ python terminal_ai.py
 
 ```bash
 git clone https://github.com/Davood121/Ai_system_nor.git
-cd Ai_system_nor
+cd Ai-core
 ```
 
 ### Step 2: Install Ollama
@@ -571,8 +571,8 @@ Contributions are welcome! Please follow these steps:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/Ai_system_nor.git
-cd Ai_system_nor
+git clone https://github.com/Davood121/Ai-core.git
+cd Ai-core
 
 # Create virtual environment
 python -m venv venv
@@ -621,7 +621,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Davood121/Ai_system_nor/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Davood121/Ai_system_nor/discussions)
-- **Email**: [Contact](mailto:davood121@example.com)
+- **Support:** [Open an issue](https://github.com/Davood121/Ai-core/issues)
 
 ---
 
